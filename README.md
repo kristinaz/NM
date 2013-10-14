@@ -1,0 +1,4 @@
+NM
+==
+
+Niutono metodas
